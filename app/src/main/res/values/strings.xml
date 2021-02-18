@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Календарь тренировок</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="fragment_title">Создание напоминания</string>
+    <string name="create_reminder">Создать напоминание</string>
+    <string name="no_workauts">Нет тренировок. Добавьте тренировку, нажав кнопку "+"</string>
+
+    <string name="running">Бег</string>
+    <string name="swimming">Плавание</string>
+    <string name="cycling">Велосипед</string>
+
+    <string name="days_text">Дни</string>
+    <string name="name_hint">Введите название</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="group_notification_for">Это уведомление для группы %s </string>
+
+    <string-array name="days">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+</resources>
